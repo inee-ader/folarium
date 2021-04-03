@@ -9,7 +9,9 @@ This is our social media for plants!
 * [Testing](#tests)
 * [Questions](#questions)
 ## Installation
-npm install
+Frontend install:
+Backend install:
+
 ## Usage
 useful for any plant parent 
 ## License
@@ -17,7 +19,7 @@ MIT
 ## Contributing
 Inee & Garrett
 ## Tests
-Jest
+None yet!
 ## Questions
 ![avatarImage](https://avatars.githubusercontent.com/u/69522747?v=4) | [Link to my GitHub](https://github.com/inee-ader)
 ![avatarImage](https://avatars.githubusercontent.com/u/32282285?v=4) | [Link to my GitHub](https://github.com/fruityvegetables)
